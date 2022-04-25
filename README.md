@@ -6,6 +6,9 @@ This repository contains examples for:
 - CommandLine
     - application using Microsoft.Extensions.Configuration.CommandLine package.
 
+- NuGet
+    - Get versions of a library from a feed.
+
 - Self Contained Deployment
 
 - Video Players

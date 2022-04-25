@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NuGetFeed": {
+      "commandName": "Project",
+      "commandLineArgs": "Generic2 https://artifactory.ingg.com/artifactory/api/nuget/nuget-local service.tfscoreui AKCp8jRGS8GPMS3WUtBzCXfFN3ZaomAw5Nd4mutYefrPNfKZTaJAyx48sQaHHQ1zTBHEjThvv"
+    }
+  }
+}
